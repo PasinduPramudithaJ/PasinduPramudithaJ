@@ -11,11 +11,11 @@ I'm a passionate developer currently pursuing my **BSc in Computer Science at th
 ### 🔥 About Me
 - 🎓 **Education:** BSc in Computer Science - University of Kelaniya
 - 💻 **Tech Stack:** JavaScript, Python, Java, C++, React.js, Node.js, MongoDB, MySQL
-- 🛠️ **Projects:** [Bankapp](#), [Netflixapp](#), and many more!
+- 🛠️ **Projects:** [TheEvent-frontend](https://github.com/PasinduPramudithaJ/ticketing-frontend),[TheEvent-backend](https://github.com/PasinduPramudithaJ/ticketing-backend),[PlantVillage](https://github.com/PasinduPramudithaJ/PlantVillage),[Netflixapp](https://github.com/PasinduPramudithaJ/Netflixapp), and many more!
 - 🌱 **Currently Learning:** Cloud Computing, Machine Learning, and DevOps
 - 🏆 **Hobbies:** Coding, Gaming, Exploring new technologies
 
-# Technologies & Tools
+# Technologies & Tools 💻
 
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -50,7 +50,7 @@ I'm a passionate developer currently pursuing my **BSc in Computer Science at th
   ![OpenGL](https://img.shields.io/badge/OpenGL-2586E0?style=for-the-badge&logo=opengl&logoColor=white)
 
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats 🏅
 ![Pasindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PasinduPramudithaJ&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduPramudithaJ&layout=compact&theme=radical)
@@ -58,12 +58,12 @@ I'm a passionate developer currently pursuing my **BSc in Computer Science at th
 ---
 
 ### 🌟 Featured Projects
-- 🚀 **Bankapp** - A modern banking application with secure transactions.
+- 🚀 **PlantVillage** - A machine learning project that successfully identify the plant diseases and suggest the priscriptions.
 - 🎬 **Netflixapp** - A clone of Netflix built with React and MySQL.
 - 📲 **Portfolio Website** - A sleek, responsive portfolio to showcase my work.
 - 🎫 **TheEvent-Official online ticketing**
 An intuitive online ticketing platform for users to purchase and manage event tickets, featuring seat selection, payment processing, and ticket delivery.
-- React- Node.js- MongoDB- Stripe API- JWT- SpringBoot- User authentication and account management- Event browsing and search functionality- Online payment- Secure payment gateway integration with Stripe- Ticket generation and email confirmation- password resets
+React- Node.js- MongoDB- Stripe API- JWT- SpringBoot- User authentication and account management- Event browsing and search functionality- Online payment- Secure payment gateway integration with Stripe- Ticket generation and email confirmation- password resets
 ---
 
 ### 📫 Connect with Me
