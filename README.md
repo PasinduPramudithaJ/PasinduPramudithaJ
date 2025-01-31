@@ -1,6 +1,6 @@
 ### Hi there, I'm Pasindu Pramuditha! 👋
 
-![Header](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Software-engineering-icon.png/512px-Software-engineering-icon.png)
+![Software Engineer](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 🚀 **Aspiring Software Engineer | Tech Enthusiast | Open Source Contributor**
 
@@ -15,7 +15,7 @@ I'm a passionate developer currently pursuing my **BSc in Computer Science at th
 - 🌱 **Currently Learning:** Cloud Computing, Machine Learning, and DevOps
 - 🏆 **Hobbies:** Coding, Gaming, Exploring new technologies
 
-![Coding](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Software_development.svg/512px-Software_development.svg.png)
+![Coding](https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif)
 
 ---
 
@@ -31,7 +31,7 @@ I'm a passionate developer currently pursuing my **BSc in Computer Science at th
 - 🎬 **Netflixapp** - A clone of Netflix built with React and Firebase.
 - 📲 **Portfolio Website** - A sleek, responsive portfolio to showcase my work.
 
-![Projects](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Software_engineering.svg/512px-Software_engineering.svg.png)
+![Projects](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
 
 ---
 
