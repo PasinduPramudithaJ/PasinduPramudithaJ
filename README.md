@@ -15,7 +15,7 @@ I'm a passionate developer currently pursuing my **BSc in Computer Science at th
 - 🌱 **Currently Learning:** Cloud Computing, Machine Learning, and DevOps
 - 🏆 **Hobbies:** Coding, Gaming, Exploring new technologies
 
-![Coding](https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif)
+![Coding](https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif)
 
 ---
 
@@ -31,7 +31,7 @@ I'm a passionate developer currently pursuing my **BSc in Computer Science at th
 - 🎬 **Netflixapp** - A clone of Netflix built with React and Firebase.
 - 📲 **Portfolio Website** - A sleek, responsive portfolio to showcase my work.
 
-![Projects](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
+![Projects](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
 
 ---
 
