@@ -63,36 +63,11 @@ I'm a passionate developer currently pursuing my **BSc in Computer Science at th
 - 📲 **Portfolio Website** - A sleek, responsive portfolio to showcase my work.
 - 🎫 **TheEvent-Official online ticketing**
 An intuitive online ticketing platform for users to purchase and manage event tickets, featuring seat selection, payment processing, and ticket delivery.
-
-**Tech Stack:**
-- React
-- Node.js
-- MongoDB
-- Stripe API
-- JWT
-- SpringBoot
-
-**Features:**
-- User authentication and account management
-- Event browsing and search functionality
-- Online payment
-- Secure payment gateway integration with Stripe
-- Ticket generation and email confirmation
-- password resets
-  
-
-
-
-
-
-
-
+- React- Node.js- MongoDB- Stripe API- JWT- SpringBoot- User authentication and account management- Event browsing and search functionality- Online payment- Secure payment gateway integration with Stripe- Ticket generation and email confirmation- password resets
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pasindupramudithaj)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pasindupramudithaj)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)  
 
 ---
 
