@@ -49,6 +49,7 @@ I'm a passionate developer currently pursuing my **BSc in Computer Science at th
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
   ![OpenGL](https://img.shields.io/badge/OpenGL-2586E0?style=for-the-badge&logo=opengl&logoColor=white)
 
+---
 
 ### 📈 GitHub Stats 🏅
 ![Pasindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PasinduPramudithaJ&show_icons=true&theme=radical)
