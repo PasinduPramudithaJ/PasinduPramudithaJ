@@ -61,7 +61,7 @@ I'm a passionate developer currently pursuing my **BSc in Computer Science at th
 - 🚀 **Bankapp** - A modern banking application with secure transactions.
 - 🎬 **Netflixapp** - A clone of Netflix built with React and MySQL.
 - 📲 **Portfolio Website** - A sleek, responsive portfolio to showcase my work.
-- ### 🎫 **TheEvent-Official online ticketing**
+- 🎫 **TheEvent-Official online ticketing**
 An intuitive online ticketing platform for users to purchase and manage event tickets, featuring seat selection, payment processing, and ticket delivery.
 
 **Tech Stack:**
