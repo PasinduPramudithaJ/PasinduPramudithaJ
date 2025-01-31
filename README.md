@@ -2,6 +2,8 @@
 
 ![Software Engineer](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
+![Profile Views](https://komarev.com/ghpvc/?username=PasinduPramudithaJ)
+
 🚀 **Aspiring Software Engineer | Tech Enthusiast | Open Source Contributor**
 
 I'm a passionate developer currently pursuing my **BSc in Computer Science at the University of Kelaniya**. I love building innovative projects, learning new technologies, and contributing to open-source communities. 
