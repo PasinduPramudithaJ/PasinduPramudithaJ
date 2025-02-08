@@ -54,7 +54,8 @@ I'm a passionate developer currently pursuing my **BSc in Computer Science at th
 ---
 
 ### 📈 GitHub Stats 🏅
-![Pasindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PasinduPramudithaJ&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs,prs&show=stars&custom_title=Pasindu%27s%20GitHub%20Stats&rank_icon=github&hide_title=false&line_height=25)
+![Pasindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PasinduPramudithaJ&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs,prs&show=stars&custom_title=Pasindu%27s%20GitHub%20Stats&rank_icon=github&hide_title=false&line_height=25&hide_border=false&card_width=400&text_bold=true&disable_animations=false&hide_rank=false&locale=en&border_radius=10)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduPramudithaJ&layout=compact&theme=radical)
 
