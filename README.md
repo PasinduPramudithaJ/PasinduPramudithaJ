@@ -55,13 +55,14 @@ I'm a passionate developer currently pursuing my **BSc in Computer Science at th
 
 ### 📈 GitHub Stats 🏅
 <!-- GitHub Stats -->
-![Pasindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PasinduPramudithaJ&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true)
+<img src="https://github-readme-stats.vercel.app/api?username=pasindupramudithaj&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true&cache_seconds=1800" />
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduPramudithaJ&layout=compact&theme=radical&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindupramudithaj&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" />
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=PasinduPramudithaJ&theme=radical&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=pasindupramudithaj&theme=radical&hide_border=true&cache_seconds=1800" />
+
 
 
 ---
