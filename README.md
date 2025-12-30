@@ -54,10 +54,9 @@ I'm a passionate developer currently pursuing my **BSc in Computer Science at th
 ---
 
 ### 📈 GitHub Stats 🏅
-![Pasindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PasinduPramudithaJ&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=contribs,prs&show=stars&custom_title=Pasindu's%20GitHub%20Stats)  
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=PasinduPramudithaJ&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true&show=stars,commits,contribs&custom_title=My%20Github%20Stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduPramudithaJ&layout=compact&theme=radical)
-
 
 ### 🌟 Featured Projects
 - 🚀 **PlantVillage** - A machine learning project that successfully identify the plant diseases and suggest the priscriptions.
